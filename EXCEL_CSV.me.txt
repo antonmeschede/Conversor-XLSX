@@ -1,0 +1,6 @@
+Olá, esse é um programa rápido para ser executado em seu terminal para converter arquivos xlsx para csv.
+
+Programado utilizando python e a biblioteca pandas, o script é simples e interativo.
+
+Você apenas precisa copiar o path do arquivo xlsx dejesado, e pronto.
+
